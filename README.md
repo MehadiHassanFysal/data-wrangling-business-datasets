@@ -4,11 +4,11 @@ This repository contains Python-based data cleaning and exploratory analysis pro
 
 ### Projects Included
 
-#### 1️⃣ Chicago Payroll Data Analysis
+#### 1. Chicago Payroll Data Analysis
 
 Analyzes the City of Chicago payroll dataset to explore employee compensation patterns across departments and roles. Tasks include data inspection, handling missing values, and exploratory analysis using Pandas.
 
-#### 2️⃣ Customer Purchase Data Cleaning
+#### 2. Customer Purchase Data Cleaning
 
 Cleans and explores e-commerce customer purchase data. Focuses on identifying data quality issues, preprocessing raw data, and preparing analysis-ready datasets for downstream analytics.
 
